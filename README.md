@@ -76,5 +76,5 @@ Reduced Hallucination through Grounded Responses
 <img width="1536" height="1024" alt="ChatGPT Image May 30, 2026, 11_17_45 PM" src="https://github.com/user-attachments/assets/94e07a67-0f3b-462e-8d6f-16a078571767" />
 
 # Data Flow Diagram
-<img width="1536" height="1300" alt="image" src="https://github.com/user-attachments/assets/cfa9032f-0b42-45b3-8086-79887f4ecb41" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cfa9032f-0b42-45b3-8086-79887f4ecb41" />
 
